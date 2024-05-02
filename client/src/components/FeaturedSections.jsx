@@ -39,7 +39,7 @@ const FeaturedSections = () => {
             "--dark-hover": "#0a0620", // Darker color for hover state
           }}
         >
-          <h3 className="text-2xl font-semibold mb-4">DONKI</h3>
+          <h3 className="text-2xl font-semibold mb-4">CME Data</h3>
           <p className="text-lg">
             Space Weather Database Of Notifications, Knowledge, Information.
           </p>
